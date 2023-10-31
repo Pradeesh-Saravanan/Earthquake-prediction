@@ -1,4 +1,4 @@
-#IBM Artificial intelligence
+IBM Artificial intelligence
 
 ##Project: Earthquake Prediction Model using Python
 
