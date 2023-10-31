@@ -1,13 +1,13 @@
-IBM Artificial intelligence
+# IBM Artificial intelligence
 
-##Project: Earthquake Prediction Model using Python
+## Project: Earthquake Prediction Model using Python
 
-###Dataset: <https://www.kaggle.com/datasets/usgs/earthquake-database>
+### Dataset: <https://www.kaggle.com/datasets/usgs/earthquake-database>
 
 * Using dataset from Kaggle platform
 * Dataset consists of 21 features and 23413 records
 
-###Dependencies
+### Dependencies
 
 * numpy
 * pandas
@@ -17,10 +17,10 @@ IBM Artificial intelligence
 * seaborn
 * sklearn
 
-###How to run the code
+### How to run the code
 * Import all the dependencies 
 * Load the dataset from the source
 * Run the program in google colab notebook(link provided below)
 * Observe the output
 
-###Colab notebook: <https://colab.research.google.com/drive/1nc8fHlqm4XHRlSHsoMh_EJQewPhcY5Fc?usp=sharing>
+### Colab notebook: <https://colab.research.google.com/drive/1nc8fHlqm4XHRlSHsoMh_EJQewPhcY5Fc?usp=sharing>
