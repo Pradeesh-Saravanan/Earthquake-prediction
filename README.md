@@ -5,7 +5,7 @@
 ### Dataset: <https://www.kaggle.com/datasets/usgs/earthquake-database>
 
 * Using dataset from Kaggle platform
-* Dataset consists of 21 features and 23413 records
+* Dataset consists of 21 features and 23,413 records
 
 ### Dependencies
 
